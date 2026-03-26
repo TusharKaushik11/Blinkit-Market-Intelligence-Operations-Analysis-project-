@@ -1,1 +1,2 @@
-# Blinkit-Market-Intelligence-Operations-Analysis-project-
+Blinkit-Market-Intelligence-Operations-Analysis-project- Analyzed Blinkit's local store performance across Indian states to understand how quick-commerce demand varies by market tier. Set up end-to-end data pipelines (MS SQL, Excel, Python) and built a Power BI dashboard that gave leadership a clear view of key metrics — this directly contributed to a 25% gain in inventory efficiency. Layered in customer behavior analysis using Python visualization libraries to surface patterns and put together concrete recommendations around store operations, revenue, and experience.
+<br>Tools: Excel, Power BI, Python (NumPy, Pandas, Matplotlib, Seaborn), SQL
